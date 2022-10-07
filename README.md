@@ -14,6 +14,9 @@ For Python requirements, see requirements.txt.
 ## Dataset
 The dataset for the challenge can be downloaded [here](https://github.com/RenYang-home/LDV_dataset).
 
+## Train
+The code for training will be released soon.
+
 ## Test
 To reproduce the results, execute 
 ```python test_aim_challenge.py --data_path your_dataset_path```. By default, the script will output only frames 10, 20, 30 etc. If you want to output all frames, add ```--save_all True```.
